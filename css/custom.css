@@ -1,0 +1,49 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #000000;
+  background-image: linear-gradient(180deg, #151515 10%, #1a3e7c 100%);
+  #04619f
+  background-size: cover;
+  color: white;
+}
+
+.header {
+  margin-top: 2.5vw;
+}
+
+.navbar-link {
+  font-size: 2vw;
+  letter-spacing: 0.5vw;
+  text-decoration: none;
+  color: white;
+  line-height: 9vw;
+}
+.navbar-link:hover {
+  color: #6446e7;
+}
+
+#name {
+  font-size: 15vw;
+  margin-top: -4vw;
+  letter-spacing: 1vw;
+}
+
+#preposition {
+  font-size: 5vw;
+  letter-spacing: 1vw;
+}
+
+.song {
+  font-size: 2vw;
+  letter-spacing: 0.5vw;
+  line-height: 1vw;
+}
+
+#merch {
+  font-size: 1.8vw;
+  letter-spacing: 0.1vw;
+  line-height: 10vw;
+}
